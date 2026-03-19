@@ -1,12 +1,12 @@
 # Assessing LLM Reasoning for Rare Disease Diagnosis Across Ontology and Retrieval-Augmented Approaches
 
-> **Accepted at [vMed 2025](https://vmed.org/) and [ACP (American College of Physicians) 2025](https://www.acponline.org/)**
+> **Accepted at [vMed 2026] and [ACP (American College of Physicians) 2026]**
 
 **Authors:** Benjamin Liu<sup>1</sup>, Aditi Mod<sup>2,7</sup>, Samhitha Devi Kunadharaju<sup>3,7</sup>, Randy Lim<sup>4,7</sup>, Ryan Bui<sup>5,7</sup>, Kevin Zhu<sup>6,7</sup>
 
 <sup>1</sup> Stanford University &nbsp; <sup>2</sup> University of Illinois Chicago &nbsp; <sup>3</sup> UT Austin &nbsp; <sup>4</sup> New York University &nbsp; <sup>5</sup> UC Irvine &nbsp; <sup>6</sup> UC Berkeley &nbsp; <sup>7</sup> Algoverse AI Research, Palo Alto, CA
 
-**Paper:** [`docs/MHSR_Submission.pdf`](docs/MHSR_Submission.pdf)
+**Read Here:** [`docs/MHSR_Submission.pdf`](docs/MHSR_Submission.pdf)
 
 ---
 
