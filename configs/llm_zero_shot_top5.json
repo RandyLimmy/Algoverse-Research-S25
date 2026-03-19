@@ -1,0 +1,7 @@
+{
+  "mode": "llm_alone",
+  "rows": 100,
+  "output_file": "Outputs/gpt5_llm_zero_shot_top5_n100.csv",
+  "prompt_style": "zero_shot_top5",
+  "scaffold": false
+}

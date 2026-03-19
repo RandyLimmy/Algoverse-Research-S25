@@ -1,0 +1,32 @@
+# Python
+.venv*
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment / secrets
+.env
+500/
+
+# Large data / generated artifacts
+Datasets/indexes/
+Datasets/retrieval_corpus/
+Datasets/cleaned_dataset.csv
+Datasets/uncleaned_dataset.csv
+Datasets/dataset_original.csv
+Datasets/hpo_terms_all.csv
+/subset_all_mapped.csv
+*.index
+pmid_mapping.json
+corpus_subset.jsonl
+
+# Experiment outputs
+Outputs/
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/

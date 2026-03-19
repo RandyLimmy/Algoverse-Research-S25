@@ -1,0 +1,15 @@
+{
+  "mode": "hybrid",
+  "rows": 100,
+  "output_file": "Outputs/gpt5_semantic_rag_k3_n100.csv",
+  "top_k": 3,
+  "pre_k": 40,
+  "sem_weight": 1.0,
+  "bm25_weight": 0.0,
+  "prompt_style": "guided",
+  "scaffold": false,
+  "force_rag": true,
+  "no_overlap_rerank": true,
+  "no_mmr": true,
+  "no_deterministic": true
+}

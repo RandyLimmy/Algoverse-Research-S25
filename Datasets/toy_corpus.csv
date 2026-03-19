@@ -1,0 +1,6 @@
+doc_id,title,abstract,doc_label,hpo_terms
+D1,Congenital microcephaly and hypotonia,"Patients present with microcephaly, decreased muscle tone (hypotonia), and developmental delay. Genetic testing often targets primary microcephaly genes.",primary_microcephaly,HP:0000252|HP:0001252
+D2,Marfan syndrome: connective tissue disorder,"Tall stature, lens dislocation, aortic root dilation characterize Marfan syndrome. FBN1 mutations are typical.",marfan,HP:0001166
+D3,Mitochondrial disease with lactic acidosis,"Lactic acidosis, exercise intolerance, and neuromuscular weakness are common in mitochondrial disorders.",mitochondrial_disorder,HP:0003128
+D4,Autism spectrum and developmental delay,"Communication challenges, social interaction differences, and developmental delay are hallmark features.",asd,HP:0000717|HP:0001263
+D5,Hypertrophic cardiomyopathy in pediatrics,"Pediatric cardiomyopathy involves left ventricular hypertrophy, arrhythmias, and risk of sudden cardiac death.",hcm,HP:0001639

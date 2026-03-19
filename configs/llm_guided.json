@@ -1,0 +1,7 @@
+{
+  "mode": "llm_alone",
+  "rows": 100,
+  "output_file": "Outputs/gpt5_llm_guided_n100.csv",
+  "prompt_style": "guided",
+  "scaffold": false
+}

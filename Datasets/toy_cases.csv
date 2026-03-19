@@ -1,0 +1,4 @@
+case_id,vignette_text,label
+C1,"Infant with severe microcephaly, hypotonia, and global developmental delay.",primary_microcephaly
+C2,"Teenager with tall stature, lens dislocation, and dilated aortic root, suspected connective tissue disorder.",marfan
+C3,Child with exercise intolerance and lactic acidosis suggestive of mitochondrial dysfunction.,mitochondrial_disorder

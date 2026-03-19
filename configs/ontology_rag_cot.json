@@ -1,0 +1,14 @@
+{
+  "mode": "hybrid",
+  "rows": 100,
+  "output_file": "Outputs/gpt5_ontology_rag_cot_n100.csv",
+  "top_k": 10,
+  "pre_k": 60,
+  "sem_weight": 0.6,
+  "bm25_weight": 0.2,
+  "prompt_style": "guided",
+  "scaffold": true,
+  "force_rag": true,
+  "few_shot": true,
+  "forced_choice": "auto"
+}

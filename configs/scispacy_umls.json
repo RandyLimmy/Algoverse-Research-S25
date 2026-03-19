@@ -1,0 +1,9 @@
+{
+  "mode": "scispacy_umls",
+  "rows": 100,
+  "output_file": "Outputs/gpt5_scispacy_umls_n100.csv",
+  "top_k": 10,
+  "pre_k": 60,
+  "prompt_style": "guided",
+  "force_rag": true
+}

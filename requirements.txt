@@ -1,0 +1,30 @@
+# Core
+pandas>=2.1.0
+numpy>=1.24.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# LLM providers
+openai>=1.30.0
+google-generativeai>=0.7.0
+
+# Retrieval
+rank-bm25>=0.2.2
+faiss-cpu>=1.8.0
+
+# Embeddings & re-ranking
+torch>=2.1.0
+transformers>=4.43.0
+sentence-transformers>=3.0.0
+
+# Text matching
+rapidfuzz>=3.0.0
+
+# Corpus building (optional)
+biopython>=1.83
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+requests>=2.31.0
+
+# Optional: speedups
+uvloop; platform_system != "Windows"

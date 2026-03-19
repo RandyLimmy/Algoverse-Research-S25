@@ -1,0 +1,12 @@
+{
+  "mode": "hybrid",
+  "rows": 100,
+  "output_file": "Outputs/gpt5_hybrid_rag_k10_n100.csv",
+  "top_k": 10,
+  "pre_k": 80,
+  "sem_weight": 0.6,
+  "bm25_weight": 0.2,
+  "prompt_style": "guided",
+  "scaffold": false,
+  "force_rag": true
+}
