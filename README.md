@@ -208,7 +208,15 @@ UMLS RAG showed the largest gains in musculoskeletal-neurological (+38%) and neu
 ## Citation
 
 ```bibtex
-
+Ao, Guangyu, et al. “Comparative Analysis of Large Language Models on Rare Disease Identification.” Orphanet Journal of Rare Diseases, vol. 20, no.
+1, 1 Apr. 2025, article no. 150. https://doi.org/10.1186/s13023-025-03656-w. Johri, Shreya, et al. “An Evaluation Framework for Clinical Use of Large
+Language Models in Patient Interaction Tasks.” Nature Medicine, vol. 31, no. 1, 2 Jan. 2025, pp. 77–86. https://doi.org/10.1038/s41591-024-03328-5.
+Lewis, Patrick, et al. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” arXiv, 22 May 2020, arXiv:2005.11401. Maity, Subhankar,
+and Manob Jyoti Saikia. “Large Language Models in Healthcare and Medical Applications: A Review.” Bioengineering (Basel), vol. 12, no. 6, 10 June
+2025, article 631. https://doi.org/10.3390/bioengineering12060631. Sharma, Kartik, Peeyush Kumar, and Yunqing Li. “OG-RAG: Ontology-Grounded
+Retrieval-Augmented Generation for Large Language Models.” arXiv, 12 Dec. 2024, arXiv:2412.15235v1. Wu, Da, Zhanliang Wang, Quan Nguyen, and
+Kai Wang. “Integrating Chain-of-Thought and Retrieval Augmented Generation Enhances Rare Disease Diagnosis from Clinical Notes.” arXiv, 15 Mar.
+2025, arXiv:2503.12286.
 ```
 
 ---
