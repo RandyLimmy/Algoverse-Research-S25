@@ -208,12 +208,7 @@ UMLS RAG showed the largest gains in musculoskeletal-neurological (+38%) and neu
 ## Citation
 
 ```bibtex
-@inproceedings{liu2025assessing,
-  title={Assessing Large Language Model Reasoning for Rare Disease Diagnosis Across Ontology and Retrieval-Augmented Approaches},
-  author={Liu, Benjamin and Mod, Aditi and Kunadharaju, Samhitha Devi and Lim, Randy and Bui, Ryan and Zhu, Kevin},
-  booktitle={Proceedings of vMed / ACP 2025},
-  year={2025}
-}
+
 ```
 
 ---
